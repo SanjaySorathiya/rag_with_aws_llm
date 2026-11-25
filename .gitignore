@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project local virtual environments
+.venv*/
+
+# Local environment files
+.env.*
+!.env.example
+!.env.template
